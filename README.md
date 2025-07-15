@@ -1,5 +1,3 @@
 # Simple-Calculator
 simple calculator using return function in python
-<br>
-Author: Zishan Ansari
-Hello world
+

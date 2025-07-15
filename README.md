@@ -1,5 +1,5 @@
 # Simple-Calculator
-simple calculator using return function in python
+Simple calculator using return function in python
 
 Main Function Points
   Provides a simple calculator interface with basic arithmetic operations
